@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.dummyExt.MDCStrLookupTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.146 sec - in org.slf4j.dummyExt.MDCStrLookupTest
+testLookup(org.slf4j.dummyExt.MDCStrLookupTest)  Time elapsed: 0.016 sec

@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.impl.MultithreadedInitializationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.092 sec - in org.slf4j.impl.MultithreadedInitializationTest
+multiThreadedInitialization(org.slf4j.impl.MultithreadedInitializationTest)  Time elapsed: 0.015 sec

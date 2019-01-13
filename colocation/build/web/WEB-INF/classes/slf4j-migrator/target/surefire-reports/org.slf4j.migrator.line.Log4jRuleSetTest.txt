@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.migrator.line.Log4jRuleSetTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.248 sec - in org.slf4j.migrator.line.Log4jRuleSetTest
+testMultiLineReplacement(org.slf4j.migrator.line.Log4jRuleSetTest)  Time elapsed: 0.002 sec
+testLoggerGetLoggerReplacement(org.slf4j.migrator.line.Log4jRuleSetTest)  Time elapsed: 0.002 sec
+categoryReplacement(org.slf4j.migrator.line.Log4jRuleSetTest)  Time elapsed: 0.001 sec
+testLogManagerGetLoggerReplacement(org.slf4j.migrator.line.Log4jRuleSetTest)  Time elapsed: 0.007 sec
+testImportReplacement(org.slf4j.migrator.line.Log4jRuleSetTest)  Time elapsed: 0 sec
+testLogDeclarationReplacement(org.slf4j.migrator.line.Log4jRuleSetTest)  Time elapsed: 0 sec

@@ -1,0 +1,29 @@
+Testsuite: org.slf4j.test_osgi.BundleTest
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1,194 sec
+------------- Standard Output ---------------
+DEBUG: FRAGMENT WIRE: [slf4j.jdk14 [3](R 3.0)] osgi.wiring.host; (&(osgi.wiring.host=slf4j.api)(bundle-version>=0.0.0)) -> [slf4j.api [2](R 2.0)]
+DEBUG: FRAGMENT WIRE: [slf4j.jdk14 [3](R 3.0)] osgi.ee; (&(osgi.ee=JavaSE)(version=1.5.0)) -> [org.apache.felix.framework [0](R 0)]
+DEBUG: WIRE: [iBundle [1](R 1.0)] osgi.wiring.package; (osgi.wiring.package=org.osgi.framework) -> [org.apache.felix.framework [0](R 0)]
+DEBUG: WIRE: [iBundle [1](R 1.0)] osgi.wiring.package; (&(osgi.wiring.package=org.slf4j)(version>=1.5.0)) -> [slf4j.api [2](R 2.0)]
+DEBUG: WIRE: [iBundle [1](R 1.0)] osgi.ee; (&(osgi.ee=JavaSE)(version=1.5.0)) -> [org.apache.felix.framework [0](R 0)]
+DEBUG: WIRE: [slf4j.api [2](R 2.0)] osgi.ee; (&(osgi.ee=JavaSE)(version=1.5.0)) -> [org.apache.felix.framework [0](R 0)]
+felix started
+===========C:\Users\user\Downloads\slf4j-1.7.25\integration\.
+BE:, source slf4j.jdk14 [3], bundle=slf4j.jdk14 [3], type=32
+BE:, source iBundle [1], bundle=iBundle [1], type=32
+BE:, source slf4j.jdk14 [3], bundle=slf4j.jdk14 [3], type=32
+BE:, source slf4j.api [2], bundle=slf4j.api [2], type=32
+BE:, source iBundle [1], bundle=iBundle [1], type=2
+BE:, source slf4j.api [2], bundle=slf4j.api [2], type=2
+BE:, source org.apache.felix.framework [0], bundle=org.apache.felix.framework [0], type=2
+===[slf4j.jdk14 [3]]
+===[iBundle [1]]
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+janv. 13, 2019 7:07:24 PM integrator.Activator start
+INFOS: Activator.start()
+janv. 13, 2019 7:07:24 PM integrator.Activator stop
+INFOS: Activator.stop
+------------- ---------------- ---------------
+
+Testcase: testSmoke took 1,193 sec

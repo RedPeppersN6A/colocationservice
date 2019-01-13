@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.DetectLoggerNameMismatchTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.132 sec - in org.slf4j.DetectLoggerNameMismatchTest
+testPassIfMatch(org.slf4j.DetectLoggerNameMismatchTest)  Time elapsed: 0.02 sec
+verifyLoggerDefinedInBaseWithOverridenGetClassMethod(org.slf4j.DetectLoggerNameMismatchTest)  Time elapsed: 0.001 sec
+testTriggerWholeMessage(org.slf4j.DetectLoggerNameMismatchTest)  Time elapsed: 0.001 sec
+testNoTriggerWithoutProperty(org.slf4j.DetectLoggerNameMismatchTest)  Time elapsed: 0 sec
+testTriggerWithProperty(org.slf4j.DetectLoggerNameMismatchTest)  Time elapsed: 0.001 sec

@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.InvocationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.112 sec - in org.slf4j.InvocationTest
+testMDC(org.slf4j.InvocationTest)  Time elapsed: 0.006 sec
+testNull(org.slf4j.InvocationTest)  Time elapsed: 0.026 sec
+test1(org.slf4j.InvocationTest)  Time elapsed: 0 sec
+test2(org.slf4j.InvocationTest)  Time elapsed: 0 sec
+testMarker(org.slf4j.InvocationTest)  Time elapsed: 0.003 sec

@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.impl.SimpleLoggerTest
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.13 sec - in org.slf4j.impl.SimpleLoggerTest
+loggerNameWithNoDots_WithLevel(org.slf4j.impl.SimpleLoggerTest)  Time elapsed: 0.014 sec
+offLevel(org.slf4j.impl.SimpleLoggerTest)  Time elapsed: 0.001 sec
+checkUseOfCachedOutputStream(org.slf4j.impl.SimpleLoggerTest)  Time elapsed: 0.002 sec
+checkUseOfLastSystemStreamReference(org.slf4j.impl.SimpleLoggerTest)  Time elapsed: 0.001 sec
+loggerNameWithOneDotShouldInheritFromParent(org.slf4j.impl.SimpleLoggerTest)  Time elapsed: 0 sec
+loggerNameWithOneDot_NoSetLevel(org.slf4j.impl.SimpleLoggerTest)  Time elapsed: 0.001 sec
+loggerNameWithNoDots_WithNoSetLevel(org.slf4j.impl.SimpleLoggerTest)  Time elapsed: 0.003 sec
+emptyLoggerName(org.slf4j.impl.SimpleLoggerTest)  Time elapsed: 0 sec

@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.migrator.line.JCLRuleSetTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.306 sec - in org.slf4j.migrator.line.JCLRuleSetTest
+testMultiLineReplacement(org.slf4j.migrator.line.JCLRuleSetTest)  Time elapsed: 0.004 sec
+testLogFactoryGetFactoryReplacement(org.slf4j.migrator.line.JCLRuleSetTest)  Time elapsed: 0.003 sec
+testImportReplacement(org.slf4j.migrator.line.JCLRuleSetTest)  Time elapsed: 0 sec
+testLogDeclarationReplacement(org.slf4j.migrator.line.JCLRuleSetTest)  Time elapsed: 0 sec
+testLogFactoryGetLogReplacement(org.slf4j.migrator.line.JCLRuleSetTest)  Time elapsed: 0.001 sec

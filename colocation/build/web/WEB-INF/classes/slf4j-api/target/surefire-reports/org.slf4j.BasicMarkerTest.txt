@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.BasicMarkerTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.148 sec - in org.slf4j.BasicMarkerTest
+testSelfRecursion(org.slf4j.BasicMarkerTest)  Time elapsed: 0.001 sec
+testPrimitive(org.slf4j.BasicMarkerTest)  Time elapsed: 0 sec
+testPrimitiveByName(org.slf4j.BasicMarkerTest)  Time elapsed: 0 sec
+testComposite(org.slf4j.BasicMarkerTest)  Time elapsed: 0 sec
+testMultiComposite(org.slf4j.BasicMarkerTest)  Time elapsed: 0 sec
+testHomonyms(org.slf4j.BasicMarkerTest)  Time elapsed: 0 sec
+testCompositeByName(org.slf4j.BasicMarkerTest)  Time elapsed: 0.001 sec
+testAddRemove(org.slf4j.BasicMarkerTest)  Time elapsed: 0.001 sec
+testMultiCompositeByName(org.slf4j.BasicMarkerTest)  Time elapsed: 0 sec
+testMultiAdd(org.slf4j.BasicMarkerTest)  Time elapsed: 0 sec
+testIndirectRecursion(org.slf4j.BasicMarkerTest)  Time elapsed: 0 sec

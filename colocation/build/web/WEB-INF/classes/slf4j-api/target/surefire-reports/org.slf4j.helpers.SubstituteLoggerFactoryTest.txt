@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.helpers.SubstituteLoggerFactoryTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.202 sec - in org.slf4j.helpers.SubstituteLoggerFactoryTest
+testFactory(org.slf4j.helpers.SubstituteLoggerFactoryTest)  Time elapsed: 0.003 sec
+testLoggers(org.slf4j.helpers.SubstituteLoggerFactoryTest)  Time elapsed: 0 sec
+testLoggerNameList(org.slf4j.helpers.SubstituteLoggerFactoryTest)  Time elapsed: 0 sec

@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.migrator.line.TrivialMatcherTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.249 sec - in org.slf4j.migrator.line.TrivialMatcherTest
+testSimpleReplacement(org.slf4j.migrator.line.TrivialMatcherTest)  Time elapsed: 0.007 sec

@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.helpers.SubstitutableLoggerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.254 sec - in org.slf4j.helpers.SubstitutableLoggerTest
+testDelegate(org.slf4j.helpers.SubstitutableLoggerTest)  Time elapsed: 0.019 sec

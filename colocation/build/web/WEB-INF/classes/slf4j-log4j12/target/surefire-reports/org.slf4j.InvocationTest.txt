@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.InvocationTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.201 sec - in org.slf4j.InvocationTest
+testMDC(org.slf4j.InvocationTest)  Time elapsed: 0.034 sec
+testNull(org.slf4j.InvocationTest)  Time elapsed: 0.032 sec
+testMDCContextMapValues(org.slf4j.InvocationTest)  Time elapsed: 0 sec
+testNullParameter_BUG78(org.slf4j.InvocationTest)  Time elapsed: 0.002 sec
+test1(org.slf4j.InvocationTest)  Time elapsed: 0 sec
+test2(org.slf4j.InvocationTest)  Time elapsed: 0 sec
+testMarker(org.slf4j.InvocationTest)  Time elapsed: 0.006 sec

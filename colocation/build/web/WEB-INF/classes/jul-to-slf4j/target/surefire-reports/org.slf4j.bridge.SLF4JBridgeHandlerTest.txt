@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.bridge.SLF4JBridgeHandlerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.152 sec - in org.slf4j.bridge.SLF4JBridgeHandlerTest
+testSmoke(org.slf4j.bridge.SLF4JBridgeHandlerTest)  Time elapsed: 0.051 sec
+testLogWithResourceBundle(org.slf4j.bridge.SLF4JBridgeHandlerTest)  Time elapsed: 0.019 sec
+testLogWithPlaceholderNoParameters(org.slf4j.bridge.SLF4JBridgeHandlerTest)  Time elapsed: 0 sec
+illFormattedInputShouldBeReturnedAsIs(org.slf4j.bridge.SLF4JBridgeHandlerTest)  Time elapsed: 0 sec
+testLogWithResourceBundleWithParameters(org.slf4j.bridge.SLF4JBridgeHandlerTest)  Time elapsed: 0 sec
+testLevels(org.slf4j.bridge.SLF4JBridgeHandlerTest)  Time elapsed: 0.001 sec

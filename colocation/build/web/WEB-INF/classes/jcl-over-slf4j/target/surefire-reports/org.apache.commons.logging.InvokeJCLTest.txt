@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.commons.logging.InvokeJCLTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.11 sec - in org.apache.commons.logging.InvokeJCLTest
+testPrintAPI(org.apache.commons.logging.InvokeJCLTest)  Time elapsed: 0.042 sec
+testIsEnabledAPI(org.apache.commons.logging.InvokeJCLTest)  Time elapsed: 0 sec

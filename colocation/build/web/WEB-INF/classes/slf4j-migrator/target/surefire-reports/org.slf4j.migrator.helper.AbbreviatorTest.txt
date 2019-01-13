@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.migrator.helper.AbbreviatorTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.342 sec - in org.slf4j.migrator.helper.AbbreviatorTest
+testZeroPrefix(org.slf4j.migrator.helper.AbbreviatorTest)  Time elapsed: 0.007 sec
+testSmoke(org.slf4j.migrator.helper.AbbreviatorTest)  Time elapsed: 0 sec
+testNoFS(org.slf4j.migrator.helper.AbbreviatorTest)  Time elapsed: 0 sec
+testImpossibleToAbbreviate(org.slf4j.migrator.helper.AbbreviatorTest)  Time elapsed: 0 sec
+testTheories(org.slf4j.migrator.helper.AbbreviatorTest)  Time elapsed: 0.127 sec

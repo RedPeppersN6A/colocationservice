@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.dummyExt.XLoggerTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.401 sec - in org.slf4j.dummyExt.XLoggerTest
+testThrowing(org.slf4j.dummyExt.XLoggerTest)  Time elapsed: 0.179 sec
+testExiting(org.slf4j.dummyExt.XLoggerTest)  Time elapsed: 0.005 sec
+testLocationExtraction_Bug114(org.slf4j.dummyExt.XLoggerTest)  Time elapsed: 0.001 sec
+testEntering(org.slf4j.dummyExt.XLoggerTest)  Time elapsed: 0.002 sec
+testCaught(org.slf4j.dummyExt.XLoggerTest)  Time elapsed: 0.005 sec

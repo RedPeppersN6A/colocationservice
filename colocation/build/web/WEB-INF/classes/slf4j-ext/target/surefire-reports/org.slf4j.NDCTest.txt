@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.NDCTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.263 sec - in org.slf4j.NDCTest
+testEmpty(org.slf4j.NDCTest)  Time elapsed: 0.029 sec
+testSmoke(org.slf4j.NDCTest)  Time elapsed: 0 sec
+testSmoke2(org.slf4j.NDCTest)  Time elapsed: 0 sec

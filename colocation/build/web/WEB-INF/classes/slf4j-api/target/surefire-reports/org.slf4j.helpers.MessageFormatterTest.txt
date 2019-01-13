@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.helpers.MessageFormatterTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.222 sec - in org.slf4j.helpers.MessageFormatterTest
+testNull(org.slf4j.helpers.MessageFormatterTest)  Time elapsed: 0.008 sec
+testArrayFormat(org.slf4j.helpers.MessageFormatterTest)  Time elapsed: 0 sec
+testMultiDimensionalArrayValues(org.slf4j.helpers.MessageFormatterTest)  Time elapsed: 0.002 sec
+testArrayThrowable(org.slf4j.helpers.MessageFormatterTest)  Time elapsed: 0 sec
+verifyOneParameterIsHandledCorrectly(org.slf4j.helpers.MessageFormatterTest)  Time elapsed: 0 sec
+testArrayValues(org.slf4j.helpers.MessageFormatterTest)  Time elapsed: 0 sec
+testExceptionIn_toString(org.slf4j.helpers.MessageFormatterTest)  Time elapsed: 0.006 sec
+testCyclicArrays(org.slf4j.helpers.MessageFormatterTest)  Time elapsed: 0.001 sec
+testTwoParameters(org.slf4j.helpers.MessageFormatterTest)  Time elapsed: 0 sec
+nullParametersShouldBeHandledWithoutBarfing(org.slf4j.helpers.MessageFormatterTest)  Time elapsed: 0 sec
+testNullArray(org.slf4j.helpers.MessageFormatterTest)  Time elapsed: 0 sec

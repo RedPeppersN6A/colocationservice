@@ -1,0 +1,5 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.dummyExt.EventLoggerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.441 sec - in org.slf4j.dummyExt.EventLoggerTest
+testEventLogger(org.slf4j.dummyExt.EventLoggerTest)  Time elapsed: 0.301 sec

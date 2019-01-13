@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.slf4j.NoBindingTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.138 sec - in org.slf4j.NoBindingTest
+testMDC(org.slf4j.NoBindingTest)  Time elapsed: 0.006 sec
+testLogger(org.slf4j.NoBindingTest)  Time elapsed: 0.013 sec
+testMarker(org.slf4j.NoBindingTest)  Time elapsed: 0.006 sec
