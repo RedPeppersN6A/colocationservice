@@ -43,6 +43,7 @@
  */
 package ColocationServices;
 
+import ColocationServicesControllers.AchievedServiceManager;
 import ColocationServicesControllers.ColocationManager;
 import ColocationServicesControllers.ServiceManager;
 import ColocationServicesControllers.UserManager;
@@ -50,9 +51,11 @@ import ColocationServicesModel.Colocation;
 import ColocationServicesModel.User;
 import ColocationServicesSecurity.SigninNeeded;
 import java.awt.Image;
+import javax.ws.rs.GET;
 
 import javax.ws.rs.Path;
 import javax.ws.rs.POST;
+import javax.ws.rs.PathParam;
 import javax.ws.rs.Produces;
 import javax.ws.rs.QueryParam;
 import javax.ws.rs.core.MediaType;
@@ -77,6 +80,14 @@ public class ColocationServices {
                 }
 		return Response.status(Response.Status.NOT_ACCEPTABLE).build();
 	}
+        @GET
+        @SigninNeeded
+        @Path("/manage/{name}")
+        public String getColocationByName(@PathParam("name") String name){
+            if(ColocationManager.getColocation(name)!=null)
+                return ColocationManager.getColocation(name).getName();
+            return "No Colocation for this name";
+        }
         @POST
         @SigninNeeded
         @Path("/manage/createService")
