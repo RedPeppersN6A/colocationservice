@@ -21,3 +21,19 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/colocation/lib/slf4j-1.7.25/integration/target/
+/colocation/lib/slf4j-1.7.25/jcl-over-slf4j/target/
+/colocation/lib/slf4j-1.7.25/jul-to-slf4j/target/
+/colocation/lib/slf4j-1.7.25/log4j-over-slf4j/target/
+/colocation/lib/slf4j-1.7.25/osgi-over-slf4j/target/
+/colocation/lib/slf4j-1.7.25/slf4j-android/target/
+/colocation/lib/slf4j-1.7.25/slf4j-api/target/
+/colocation/lib/slf4j-1.7.25/slf4j-ext/target/
+/colocation/lib/slf4j-1.7.25/slf4j-jcl/target/
+/colocation/lib/slf4j-1.7.25/slf4j-jdk14/target/
+/colocation/lib/slf4j-1.7.25/slf4j-log4j12/target/
+/colocation/lib/slf4j-1.7.25/slf4j-migrator/target/
+/colocation/lib/slf4j-1.7.25/slf4j-nop/target/
+/colocation/lib/slf4j-1.7.25/slf4j-simple/target/
+/colocation/lib/slf4j-1.7.25/slf4j-site/target/
+/colocation/lib/slf4j-1.7.25/target/
